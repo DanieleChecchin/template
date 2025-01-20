@@ -1,1 +1,1 @@
-BEER PROJECT
+Template Repository
