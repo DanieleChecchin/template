@@ -13,12 +13,12 @@
                 <!-- Left Side Of Navbar -->
                 <ul class="navbar-nav me-auto">
                     @auth
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link" href="{{ route('admin.projects.index') }}">Index</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('admin.projects.create') }}">Create a new Project</a>
-                        </li>
+                        </li> --}}
                     @endauth
                 </ul>
 
